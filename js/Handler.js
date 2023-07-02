@@ -15,7 +15,7 @@ var Url="";
             Url="https://stackoverflow.com/users/11957624/amal";
             break;
         case "resume":
-            Url="Docs/Amal+Resume.pdf";
+            Url="Doc/Amal+Resume.pdf";
             break
   }
 
