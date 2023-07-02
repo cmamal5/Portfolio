@@ -14,6 +14,9 @@ var Url="";
         case "stack-overflow":
             Url="https://stackoverflow.com/users/11957624/amal";
             break;
+        case "resume":
+            Url="Docs/Amal+Resume.pdf";
+            break
   }
 
   window.open(Url);
