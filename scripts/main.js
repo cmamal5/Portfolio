@@ -14,7 +14,7 @@ function setage(){
   var currentDate = new Date();
 // Get the date of birth from the element
 var dobElement = document.getElementById('Age');
-var dob = new Date("08-09-1998");
+var dob = new Date("1998-09-08"); // Using ISO format (YYYY-MM-DD) for better cross-platform compatibility
 // Calculate the age
 var age = currentDate.getFullYear() - dob.getFullYear();
 // Check if the birthday hasn't occurred yet this year
